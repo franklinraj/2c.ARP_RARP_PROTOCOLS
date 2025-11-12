@@ -1,5 +1,5 @@
 # 2c.SIMULATING ARP /RARP PROTOCOLS
-## Name:Fraklin raj G
+## Name:Franklin raj G
 ## Reg no:212223230058
 ## AIM
 To write a python program for simulating ARP protocols using TCP.
